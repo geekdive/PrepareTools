@@ -18,6 +18,6 @@ Dari tool diatas kita rangkum kedalam beberapa materi untuk penginstallasiannya 
 
 Jika terjadi masalah bisa di buat `review`nya agar bisa dibantu dengan membuat issue di tab Issues, agar temen-temen bisa berkomunikasi dengan saya maupun temen-temen lain yang bisa memperbaiki masalah apabila terjadi masalah pas ketika installasi dan sebagainya.
 
-> Bagaimana Membuat / Mengirikan Issue ke Kolom Issues [(*Silahkan klik link ini)]()
+- Bagaimana Membuat / Mengirikan Issue ke Kolom Issues [(*Silahkan klik link ini)]()
 
 `Note:` Pada saat membuat 'Issue' kita harus sudah memiliki akun 'GitHub' sebelumnya, jika ada yang `belum` memiliki `akun GitHub` dan ingin melihat cara pembuatan akunnya [(*Silahkan klik link ini)]()
