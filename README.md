@@ -1,7 +1,7 @@
 # PrepareTools
 Persiapan Installasi Android Studio di Komputer, Ini sebagai GUIDE buat temen-temen yang mau menginstall paket-paket untuk persiapan di acara IAK tanggal 3-4 Februari 2018, so, sukses dan sampai jumpa di STT Pelita Bangsa Cikarang.
 
-![img](https://github.com/septiyadii/PrepareTools/tree/master/pic)
+![img](https://github.com/septiyadii/PrepareTools/blob/master/pic/27500222_534086110318082_3868495298646322076_o.png)
 
 Untuk teman-teman yang belum menginstall aplikasi Android Studionya, disini saya buat totorialnya, jadi apa aja yang diperlukan nanti pas ketika ngebangun aplikasi mobilenya biar gak grasak-grusuk pas hari pelatihan, dan intinya buat lebih fokus pada materi di hari H, Oke kemarin saya sempet ngasih tau apa aja yang perlu diinstall dan diperlukan untuk `IAK` besok tepatnya buat tanggal `3-4 Februari 2018`, nah berikut tool yang harus dipersiapkan:
 
