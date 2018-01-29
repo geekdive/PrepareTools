@@ -1,5 +1,5 @@
 # PrepareTools
-Persiapan Installasi Android Studio di Komputer, Ini sebagai GUIDE buat temen-temen yang mau menginstall paket-paket untuk persiapan di acara IAK tanggal 3-4 Februari 2018, so, sukses dan sampai jumpa di STT Pelita Bangsa Cikarang.
+Persiapan Installasi Android Studio di Komputer, Ini sebagai `GUIDE` buat temen-temen yang mau menginstall paket-paket untuk persiapan di acara `IAK` tanggal `3-4 Februari 2018`, so, sukses dan sampai jumpa di `STT Pelita Bangsa Cikarang`.
 
 ![img](https://github.com/septiyadii/PrepareTools/blob/master/pic/27500222_534086110318082_3868495298646322076_o.png)
 
@@ -18,6 +18,7 @@ Dari tool diatas kita rangkum kedalam beberapa materi untuk penginstallasiannya 
 
 Jika terjadi masalah bisa di buat `review`nya agar bisa dibantu dengan membuat issue di tab Issues, agar temen-temen bisa berkomunikasi dengan saya maupun temen-temen lain yang bisa memperbaiki masalah apabila terjadi masalah pas ketika installasi dan sebagainya.
 
-> Bagaimana Membuat / Mengirikan Issue ke Kolom Issues [(*Silahkan klik link ini)]()
+- Bagaimana Membuat / Mengirikan Issue ke Kolom Issues [(*Silahkan klik link ini)]()
 
-`Note:` Pada saat membuat 'Issue' kita harus sudah memiliki akun 'GitHub' sebelumnya, jika ada yang `belum` memiliki `akun GitHub` dan ingin melihat cara pembuatan akunnya [(*Silahkan klik link ini)]()
+**Note:** <br> 
+`Pada saat membuat Issue kita harus sudah memiliki akun GitHub sebelumnya, jika ada yang belum memiliki akun GitHub dan ingin melihat cara pembuatan akunnya` [(*Silahkan klik link ini)]()
