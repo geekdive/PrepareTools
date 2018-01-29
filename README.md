@@ -1,4 +1,7 @@
 # PrepareTools
+
+## Arahkan ke tab WiKi untuk melihat tutorialnya atau klik link [Wiki](https://github.com/septiyadii/PrepareTools/wiki) ini
+
 Persiapan Installasi Android Studio di Komputer, Ini sebagai `GUIDE` buat temen-temen yang mau menginstall paket-paket untuk persiapan di acara `IAK` tanggal `3-4 Februari 2018`, so, sukses dan sampai jumpa di `STT Pelita Bangsa Cikarang`.
 
 ![img](https://github.com/septiyadii/PrepareTools/blob/master/pic/27500222_534086110318082_3868495298646322076_o.png)
